@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Heads Will Roll (A-Trak Remix Radio Edit)",
+  "base_artist": "Yeah Yeah Yeahs",
+  "createdAt": "2026-02-24T17:25:26.046355Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Heads Will Roll (A-Trak Remix Radio Edit)",
+      "artist": "Yeah Yeah Yeahs",
+      "has_synced": true,
+      "path": "select/01_Heads_Will_Roll_(A-Trak_Remix_Radio_Edit)_Yeah_Yeah_Yeahs.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Heads Will Roll (A-Trak Remix Radio Edit)",
+      "artist": "Yeah Yeah Yeahs",
+      "has_synced": true,
+      "path": "select/02_Heads_Will_Roll_(A-Trak_Remix_Radio_Edit)_Yeah_Yeah_Yeahs.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Heads Will Roll - A-Trak Remix Radio Edit",
+      "artist": "Yeah Yeah Yeahs",
+      "has_synced": true,
+      "path": "select/03_Heads_Will_Roll_-_A-Trak_Remix_Radio_Edit_Yeah_Yeah_Yeahs.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Heads Will Roll (A-Trak Remix Radio Edit)",
+      "artist": "Yeah Yeah Yeahs",
+      "has_synced": true,
+      "path": "select/04_Heads_Will_Roll_(A-Trak_Remix_Radio_Edit)_Yeah_Yeah_Yeahs.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Heads Will Roll (A-Trak Remix) radio edit",
+      "artist": "Yeah Yeah Yeahs",
+      "has_synced": true,
+      "path": "select/05_Heads_Will_Roll_(A-Trak_Remix)_radio_edit_Yeah_Yeah_Yeahs.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Heads Will Roll - A-Trak Remix Radio Edit",
+      "artist": "Yeah Yeah Yeahs",
+      "has_synced": true,
+      "path": "select/06_Heads_Will_Roll_-_A-Trak_Remix_Radio_Edit_Yeah_Yeah_Yeahs.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Heads Will Roll - A-Trak Remix Radio Edit",
+      "artist": "Yeah Yeah Yeahs",
+      "has_synced": true,
+      "path": "select/07_Heads_Will_Roll_-_A-Trak_Remix_Radio_Edit_Yeah_Yeah_Yeahs.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Heads Will Roll (A-Trak Remix Radio Edit)",
+      "artist": "Yeah Yeah Yeahs",
+      "has_synced": true,
+      "path": "select/08_Heads_Will_Roll_(A-Trak_Remix_Radio_Edit)_Yeah_Yeah_Yeahs.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Heads Will Roll (A-Trak Remix Radio Edit)",
+      "artist": "Yeah Yeah Yeahs",
+      "has_synced": true,
+      "path": "select/09_Heads_Will_Roll_(A-Trak_Remix_Radio_Edit)_Yeah_Yeah_Yeahs.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Heads Will Roll (A-Trak Remix Radio Edit)",
+      "artist": "Yeah Yeah Yeahs",
+      "has_synced": true,
+      "path": "select/10_Heads_Will_Roll_(A-Trak_Remix_Radio_Edit)_Yeah_Yeah_Yeahs.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Heads Will Roll - A-Trak Remix Radio Edit",
+      "artist": "Yeah Yeah Yeahs",
+      "has_synced": true,
+      "path": "select/11_Heads_Will_Roll_-_A-Trak_Remix_Radio_Edit_Yeah_Yeah_Yeahs.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Heads Will Roll (A-Trak Remix Radio Edit)",
+      "artist": "Yeah Yeah Yeahs",
+      "has_synced": true,
+      "path": "select/12_Heads_Will_Roll_(A-Trak_Remix_Radio_Edit)_Yeah_Yeah_Yeahs.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Heads Will Roll (A-Trak Remix Radio Edit)",
+      "artist": "Yeah Yeah Yeahs",
+      "has_synced": false,
+      "path": "select/pl_01_Heads_Will_Roll_(A-Trak_Remix_Radio_Edit)_Yeah_Yeah_Yeahs.txt"
+    }
+  ]
+}
